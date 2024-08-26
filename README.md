@@ -5,10 +5,15 @@ This project is a movie recommendation system developed using Google Colab. It u
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [License](#license)
-- [Contributing](#contributing)
+- You can use the [Jupyter Notebook](https://jupyter.org/) or the [Google Colab](https://colab.research.google.com/)
+
+- ## Dataset
+
+  The project uses the MovieLens dataset, which can be accessed from the following URLs:
+
+- [Ratings Dataset](https://grouplens.org/datasets/movielens/latest/)
+- [Movies Dataset](https://grouplens.org/datasets/movielens/latest/)
+
 
 ## Installation
 
